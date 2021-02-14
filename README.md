@@ -1,5 +1,7 @@
 # react-native-drag-resize
 
+This repo was forked from  https://github.com/CaptainOmega/react-native-drag-resize
+
 React Native component for draggable and resizable manipulation.
 
 ## Show Cases
